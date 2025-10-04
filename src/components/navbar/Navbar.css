@@ -79,7 +79,7 @@
   display: none;
 }
 
-/* @media (max-width: 768px) {
+@media (max-width: 768px) {
   .nav-menu img {
     display: flex;
     margin: 15px;
@@ -121,7 +121,7 @@
     flex-direction: row;
     gap: 20px;
   }
-} */
+}
 
 /* mobile responsive 480px */
 
