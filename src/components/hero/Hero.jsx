@@ -11,8 +11,8 @@ const Hero = () => {
         <span>I'm Manimohan Mistry,</span> Software Engineer
       </h1>
       <p>
-        I am a passionate Full Stack Developer (Fresher) skilled in React,
-        Node.js, Express, and MongoDB, Backend API's ... etc.
+        I am a passionate Full Stack Developer skilled in ReactJs,
+        Node.js, Express, and MongoDB, Backend and API Integration ... etc.
       </p>
       <div className="hero-action">
         <div className="hero-connect">
