@@ -4,18 +4,18 @@ Welcome to my personal portfolio! This site is a showcase of my journey as a Ful
 
 🚀 About Me :
 
-I’m Mohan Mistry — a passionate and driven software engineer with a profound interest in building end-to-end, scalable web applications. I believe that robust code, thoughtful UX, and elegant design come together to create experiences that delight users and solve real problems.
+I’m Manimohan Mistry — a passionate and driven software engineer with a profound interest in building end-to-end, scalable web applications. I believe that robust code, thoughtful UX, and elegant design come together to create experiences that delight users and solve real problems.
 
 As a full-stack developer, I thrive when bridging the gap between front-end and back-end, working across the entire stack to deliver performant, maintainable products. Whether it’s crafting intuitive UI components or architecting APIs and databases, I approach each challenge with curiosity, precision, and a growth mindset.
 
 🧰 Tech Stack & Skills
 Tools & Technologies :
 
-Front-End	React, HTML5, CSS3, JavaScript / TypeScript
-Back-End / APIs	Node.js, Express (or similar)
-Databases / Storage	MongoDB, SQL (or relational databases)
+Front-End	React, HTML5, CSS3, JavaScript
+Back-End / APIs	Node.js, Express /
+Databases / Storage	MongoDB, SQL /
 Deployment & DevOps	Netlify, Vercel, Docker, CI/CD pipelines
-Version Control	Git, GitHub / GitLab
+Version Control	Git, GitHub /
 Best Practices	Clean code, modular architecture, responsive design
 
 I’m always expanding this list as I take on new challenges, explore new technologies, and refine my craft.
