@@ -1,4 +1,4 @@
-Manimohan Mistry’s Portfolio 👋
+Manimohan Mistry’s Portfolio. 👋
 
 Welcome to my personal portfolio! This site is a showcase of my journey as a Full Stack Developer, highlighting projects, skills, and the mindset I bring to building meaningful web experiences.
 
